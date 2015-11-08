@@ -1,3 +1,11 @@
+# Exploratory Data Analysis, Project 1
+
+- This assignment creates four plots as instructed below.
+- I have posted four .R scripts, one for each plot.
+- In addition I posted the dataset used and the four PNG output files
+- Each script is documented 
+
+
 ## Introduction
 
 This assignment uses data from
